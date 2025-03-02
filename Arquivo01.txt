@@ -1,1 +1,2 @@
-Testando
+Testando o commit à partir do Git.
+Testanto o commit à partir do GitHub.
